@@ -1,8 +1,8 @@
 ## 自我介紹 熱衷於音樂的愛好者
    名:周宥任
-   就讀:長榮大學 航運管理學系👋
+   就讀:長榮大學 航運管理學系
    來自:新北市
-   email:114b05730@mailst.cjcu.edu.tw
+   email:114b05730@mailst.cjcu.edu.tw👋
 
 <!--
 **114b05730-commits/114b05730-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
